@@ -19,7 +19,7 @@ This repository demonstrates how to build a fully automated **CI/CD pipeline** f
 ## 📖 Step-by-Step Guide  
 
 Check out the complete **blog tutorial with screenshots** here:  
-📌 **[End-to-End CI/CD Pipeline Using GitHub Actions](https://blog.prodevopsguy.xyz/end-to-end-cicd-pipeline-using-github-actions-for-android-application)**  
+📌 **[End-to-End CI/CD Pipeline Using GitHub Actions]([https://blog.prodevopsguy.xyz/end-to-end-cicd-pipeline-using-github-actions-for-android-application](https://projects.prodevopsguytech.com/blog/DevOps-Project-14))**  
 
 ---
 
